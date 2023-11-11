@@ -1,0 +1,56 @@
+body {
+    background-color: aliceblue;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+#table{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#div {
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    display: flex;
+    justify-content: space-around;
+
+    padding: 20px;
+}
+
+.table table-striped table-dark{
+    display: flex;
+    justify-content: center;
+}
+
+#resp {
+    width: 400px;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+input {
+    border-radius: 10px;
+}
+
+#texto {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    border: 2px solid;
+}
